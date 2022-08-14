@@ -108,6 +108,10 @@ class _MyHomePageState extends State<MyHomePage> {
       floatingActionButton: FloatingActionButton(
         onPressed: (){
           print("Update Code");
+          print("Update Code2");
+          print("Update Code3");
+          print("Update Code4");
+          print("Update Code5");
         },
         tooltip: 'Increment',
         child: const Icon(Icons.add),
