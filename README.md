@@ -1,4 +1,4 @@
-<img width="1665" alt="Screen Shot 2022-08-14 at 1 04 56 PM" src="https://user-images.githubusercontent.com/28203059/184550364-f6379174-f0ac-44af-824a-c0237d17c5af.png">
+<img width="1600" height="200" alt="Screen Shot 2022-08-14 at 1 04 56 PM" src="https://user-images.githubusercontent.com/28203059/184550364-f6379174-f0ac-44af-824a-c0237d17c5af.png">
 
 # githubdesktopversion
 
